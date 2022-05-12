@@ -1,3 +1,11 @@
+# Showcase Template
+
+I'm constantly being asked to spin up a simple website to share client images. This is a dirt simple template for sharing images. Load your images into the `UPLOAD_IMAGES` folder and your logo into the `LOGO` folder, and the images are automatically served in a simple masonry grid.
+
+
+![Screenshot](screenshot.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

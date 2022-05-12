@@ -5,10 +5,11 @@ I'm constantly being asked to spin up a simple website to share client images. T
 
 ![Screenshot](screenshot.png)
 
+## Contributing
+If you'd like to contribute to this repository feel free to fork/submit a pull request, and if you have any suggestions feel free to email me at abbeyyacoe@gmail.com.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## About React
 
 In the project directory, you can run:
 

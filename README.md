@@ -1,6 +1,6 @@
 # Showcase Template
 
-I'm constantly being asked to spin up a simple website to share client images. This is a dirt simple template for sharing images. Load your images into the `UPLOAD_IMAGES` folder and your logo into the `LOGO` folder, and the images are automatically served in a simple masonry grid.
+I'm constantly being asked to spin up a simple website to share client images. This is a dirt simple template for sharing images. Load your images into the `UPLOAD_IMAGES` folder and your logo into the `src/LOGO` folder, and the images are automatically served in a simple masonry grid.
 
 
 ![Screenshot](screenshot.png)
